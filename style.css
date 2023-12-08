@@ -1,0 +1,52 @@
+    /* 
+    .main{
+        border: 2px solid black;
+    }
+
+    button{
+        padding: 20px;
+        margin: 5px;
+        border: 2px solid black;
+        border-radius: 750px;
+    }
+
+    @media screen and (max-width: 768px) {
+        /* Styles for small screens (less than 768px wide) */
+        /* input {
+          padding: 5px;
+          margin: 5px;
+        }
+      
+        .main {
+          border: 1px solid black;
+        }
+      
+        button {
+          padding: 10px;
+          margin: 2px;
+          border-radius: 500px;
+        }
+      }
+
+
+      */
+
+      .buttons{
+            padding: 30px;
+            margin: 5px;
+            width: 50px;
+      }
+
+      input{
+        padding: 10px;
+        width: 190px;
+        border: none;
+        border-bottom: 2px solid black;
+        caret-color: red;
+    }
+
+    .main{
+        border: 2px solid black;
+        border-radius: 5px;
+        margin: 20px;
+    }
